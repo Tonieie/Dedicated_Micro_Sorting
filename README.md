@@ -1,4 +1,4 @@
-# Dedicated_Micro_Sorting
+# Dedicated Microprocessor for Sorting Algorithm
     Quatus Porject for Sorting data using Dediated Microprocesor
 
 ## About

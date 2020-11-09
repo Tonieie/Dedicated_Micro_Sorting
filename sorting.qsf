@@ -72,4 +72,4 @@ set_global_assignment -name LL_MEMBER_STATE LOCKED -section_id "Root Region"
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
 set_global_assignment -name CHECK_OUTPUTS OFF
 set_global_assignment -name VECTOR_WAVEFORM_FILE AssemSim2.vwf
-set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE AssemSim2.vwf
+set_global_assignment -name INCREMENTAL_VECTOR_INPUT_SOURCE AssemSim.vwf

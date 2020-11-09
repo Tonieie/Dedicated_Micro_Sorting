@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="sorting">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|alt3pram0:Reg_File|alt3pram:alt3pram_component|altdpram:altdpram_component2" CBX_FILE_NAME="dpram_q5k1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_add_sub0:inst10|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_4pg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|alt3pram0:Reg_File|alt3pram:alt3pram_component|altdpram:altdpram_component1|altsyncram:ram_block" CBX_FILE_NAME="altsyncram_41q1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_compare0:j_notequal_0|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_7ej.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_compare3:buffer_less_result|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_qdg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_mux0:inst15|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_c6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_mux1:inst18|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_i6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|alt3pram0:Reg_File|alt3pram:alt3pram_component|altdpram:altdpram_component2|altsyncram:ram_block" CBX_FILE_NAME="altsyncram_41q1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_compare1:i_greater_0|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_paj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_mux0:inst16|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_c6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|alt3pram0:Reg_File|alt3pram:alt3pram_component|altdpram:altdpram_component1" CBX_FILE_NAME="dpram_q5k1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_compare2:i_lessthan_8|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_0bj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_compare4:inst1|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_0bj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_constant0:inst|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_7e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Assem|sorting:inst2|lpm_mux0:inst17|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_c6e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

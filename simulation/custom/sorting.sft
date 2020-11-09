@@ -1,0 +1,6 @@
+set tool_name "Custom VHDL"
+set corner_file_list {
+	{{"Slow -7 1.2V 125 Model"} {sorting.vho sorting_7_1200mv_125c_vhd_slow.sdo}}
+	{{"Slow -7 1.2V -40 Model"} {sorting.vho sorting_7_1200mv_-40c_vhd_slow.sdo}}
+	{{"Fast -M 1.2V -40 Model"} {sorting.vho sorting_min_1200mv_-40c_vhd_fast.sdo}}
+}
